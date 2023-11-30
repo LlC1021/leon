@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="广东",广东珠江
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+#EXTINF:-1 group-title="广东",广东民生
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8
+#EXTINF:-1 group-title="广东",广东体育
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+#EXTINF:-1 group-title="广东",广东少儿
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel63/index.m3u8
+#EXTINF:-1 group-title="广东",嘉佳卡通
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41133/index.m3u8
+#EXTINF:-1 group-title="广东",深圳都市
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
+#EXTINF:-1 group-title="广东",深圳电视剧
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
+#EXTINF:-1 group-title="广东",深圳财经生活
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
+#EXTINF:-1 group-title="广东",深圳娱乐
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel49/index.m3u8
+#EXTINF:-1 group-title="广东",深圳体育健康
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel50/index.m3u8
+#EXTINF:-1 group-title="广东",深圳少儿
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel51/index.m3u8
+#EXTINF:-1 group-title="广东",深圳公共
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
+#EXTINF:-1 group-title="广东",深圳宜和购物
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel42/index.m3u8
+#EXTINF:-1 group-title="广东",蛇口电视台
+http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
